@@ -81,10 +81,8 @@
         <item name="carDividerColor">@*android:color/car_list_divider</item>
     </style>
 
-    <style name="CarPreferenceTheme">
-        <item name="preferenceFragmentCompatStyle">@style/CarPreferenceFragment</item>
-        <item name="preferenceFragmentListStyle">@style/CarPreferenceFragmentList</item>
-    </style>
+
+
 
 
 
